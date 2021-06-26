@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "eduApp.app"
-               BlueprintName = "eduApp"
-               ReferencedContainer = "container:eduApp.xcodeproj">
+               BuildableName = "eduMobileApp.app"
+               BlueprintName = "eduMobileApp"
+               ReferencedContainer = "container:eduMobileApp.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "eduAppTests.xctest"
-               BlueprintName = "eduAppTests"
-               ReferencedContainer = "container:eduApp.xcodeproj">
+               BuildableName = "eduMobileAppTests.xctest"
+               BlueprintName = "eduMobileAppTests"
+               ReferencedContainer = "container:eduMobileApp.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "eduApp.app"
-            BlueprintName = "eduApp"
-            ReferencedContainer = "container:eduApp.xcodeproj">
+            BuildableName = "eduMobileApp.app"
+            BlueprintName = "eduMobileApp"
+            ReferencedContainer = "container:eduMobileApp.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "eduApp.app"
-            BlueprintName = "eduApp"
-            ReferencedContainer = "container:eduApp.xcodeproj">
+            BuildableName = "eduMobileApp.app"
+            BlueprintName = "eduMobileApp"
+            ReferencedContainer = "container:eduMobileApp.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
